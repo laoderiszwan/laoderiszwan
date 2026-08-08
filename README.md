@@ -1,54 +1,67 @@
-# Hi, I'm Laode Muhamad Riszwan 👋
+# Laode Muhamad Riszwan
 
-### Informatics Engineering Student | Aspiring Software Engineer
+**Informatics Engineering Student · Aspiring Software Engineer**
 
-I'm an Informatics Engineering student currently building my foundation in programming and software engineering.
-
-I enjoy learning by building projects, solving problems, and improving my understanding of how software works.
+Currently building a strong foundation in programming, computer science, and software engineering.
 
 ---
 
-## 🚀 Currently Learning
+## About
 
-- C++ Programming
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Software Engineering
-- MySQL & Database
-- Python
-- Artificial Intelligence
+I am an Informatics Engineering student focused on developing practical programming skills and understanding the fundamentals of software development.
+
+My current learning path focuses on programming, data structures, algorithms, databases, and software engineering. In the long term, I aim to explore Artificial Intelligence and Machine Learning.
 
 ---
 
-## 🛠️ Technologies
+## Technical Focus
 
-**Languages**
-- C++
-- HTML
-- CSS
-- JavaScript
-- Python
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- NetBeans
-- MySQL
+| Area | Technologies / Topics |
+|---|---|
+| Programming | C++, Python |
+| Web Development | HTML, CSS, JavaScript |
+| Database | MySQL |
+| Computer Science | Data Structures, Algorithms |
+| Software Engineering | OOP, Git, GitHub |
+| Development Tools | VS Code, NetBeans |
+| Future Focus | Artificial Intelligence, Machine Learning |
 
 ---
 
-## 📚 Learning Journey
+## Learning Path
 
-I'm currently focused on strengthening my programming fundamentals before moving deeper into software engineering and artificial intelligence.
+| Stage | Focus |
+|---|---|
+| 01 | Programming Fundamentals |
+| 02 | Data Structures & Algorithms |
+| 03 | Object-Oriented Programming |
+| 04 | Database Systems |
+| 05 | Software Engineering |
+| 06 | Python |
+| 07 | Artificial Intelligence & Machine Learning |
+
+---
+
+## Projects
+
+| Project | Technology | Status |
+|---|---|---|
+| C++ Learning | C++ | In Progress |
+| Student Grade Management System | Java, MySQL | In Progress |
+| Database Projects | MySQL | Learning |
+| Personal Projects | Various | Planned |
+
+---
+
+## Current Focus
 
 ```text
 Programming Fundamentals
         ↓
 Data Structures & Algorithms
         ↓
-Object-Oriented Programming
-        ↓
 Software Engineering
+        ↓
+Python
         ↓
 Artificial Intelligence
