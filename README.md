@@ -23,21 +23,21 @@ continuous learning, practice, and personal projects.
 <div align="left">
 
 <a href="https://www.instagram.com/elriszwan">
-<img src="https://api.iconify.design/logos:instagram-icon.svg" width="24"/>
+<img src="https://api.iconify.design/logos:instagram-icon.svg" width="22"/>
 &nbsp; @elriszwan
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:riszwanlaode@gmail.com">
-<img src="https://api.iconify.design/logos:google-gmail.svg" width="24"/>
+<img src="https://api.iconify.design/logos:google-gmail.svg" width="22"/>
 &nbsp; riszwanlaode@gmail.com
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.tiktok.com/@elriszwan">
-<img src="https://api.iconify.design/logos:tiktok-icon.svg" width="24"/>
+<img src="https://api.iconify.design/logos:tiktok-icon.svg" width="22"/>
 &nbsp; @elriszwan
 </a>
 
@@ -49,53 +49,16 @@ continuous learning, practice, and personal projects.
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/>
-&nbsp; C++
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/>
-&nbsp; Java
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/>
-&nbsp; Python
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/>
-&nbsp; JavaScript
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/>
-&nbsp; HTML5
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/>
-&nbsp; CSS3
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/>
-&nbsp; MySQL
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/>
-&nbsp; Git
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/>
-&nbsp; GitHub
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24"/>
-&nbsp; VS Code
+<img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS%20Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 
 </div>
 
