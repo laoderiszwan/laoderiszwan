@@ -4,8 +4,8 @@
 
 ### Informatics Engineering Student · Aspiring Software Engineer
 
-Building a strong foundation in programming, computer science,
-and software engineering through continuous learning and practice.
+Building a strong foundation in programming and software engineering
+through continuous learning and practice.
 
 </div>
 
@@ -16,11 +16,8 @@ and software engineering through continuous learning and practice.
 I am an Informatics Engineering student interested in programming,
 software development, and computer science.
 
-Currently focused on strengthening my programming fundamentals,
-problem-solving skills, and understanding of software engineering.
-
-My long-term direction is to grow as a Software Engineer and
-explore Artificial Intelligence and Machine Learning.
+Currently focused on strengthening my programming fundamentals
+and developing practical skills as an aspiring Software Engineer.
 
 ---
 
@@ -38,10 +35,6 @@ explore Artificial Intelligence and Machine Learning.
 &nbsp;
 <a href="https://www.tiktok.com/@elriszwan">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/laoderiszwan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -74,89 +67,10 @@ explore Artificial Intelligence and Machine Learning.
 
 ---
 
-## Current Focus
-
-**Programming Fundamentals**
-C++ · Programming Logic · Problem Solving
-
-**Computer Science**
-Data Structures · Algorithms · Object-Oriented Programming
-
-**Development**
-Database Systems · Git · GitHub · Software Engineering
-
----
-
-## Learning Path
-
-```text
-Programming Fundamentals
-          ↓
-Data Structures & Algorithms
-          ↓
-Object-Oriented Programming
-          ↓
-Database Systems
-          ↓
-Software Engineering
-          ↓
-Python
-          ↓
-Artificial Intelligence & Machine Learning
-```
-
----
-
-## Interests
-
-Software Engineering
-Artificial Intelligence
-Problem Solving
-Backend Development
-Computer Science
-
----
-
-## Development Mindset
+## GitHub Stats
 
 <div align="center">
 
-**Learn → Build → Practice → Improve**
+Coming soon.
 
 </div>
-
-I believe consistent practice and real-world projects
-are essential for becoming a better developer.
-
----
-
-## Direction
-
-<div align="center">
-
-### Software Engineering
-
-↓
-
-### Artificial Intelligence & Machine Learning
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-**Developer Activity · Language Distribution · Contributions · Repositories**
-
-</div>
-
----
-
-<div align="center">
-
-Building skills today for the software I want to create tomorrow.
-
-</div>
-
