@@ -76,13 +76,13 @@ explore Artificial Intelligence and Machine Learning.
 
 ## Current Focus
 
-**Programming Fundamentals**  
+**Programming Fundamentals**
 C++ · Programming Logic · Problem Solving
 
-**Computer Science**  
+**Computer Science**
 Data Structures · Algorithms · Object-Oriented Programming
 
-**Development**  
+**Development**
 Database Systems · Git · GitHub · Software Engineering
 
 ---
@@ -103,3 +103,60 @@ Software Engineering
 Python
           ↓
 Artificial Intelligence & Machine Learning
+```
+
+---
+
+## Interests
+
+Software Engineering
+Artificial Intelligence
+Problem Solving
+Backend Development
+Computer Science
+
+---
+
+## Development Mindset
+
+<div align="center">
+
+**Learn → Build → Practice → Improve**
+
+</div>
+
+I believe consistent practice and real-world projects
+are essential for becoming a better developer.
+
+---
+
+## Direction
+
+<div align="center">
+
+### Software Engineering
+
+↓
+
+### Artificial Intelligence & Machine Learning
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+**Developer Activity · Language Distribution · Contributions · Repositories**
+
+</div>
+
+---
+
+<div align="center">
+
+Building skills today for the software I want to create tomorrow.
+
+</div>
+
