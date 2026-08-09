@@ -23,22 +23,17 @@ continuous learning, practice, and personal projects.
 <div align="left">
 
 <a href="https://www.instagram.com/elriszwan">
-<img src="https://api.iconify.design/logos:instagram-icon.svg" width="22"/>
-&nbsp; @elriszwan
+<img src="https://img.shields.io/badge/%40elriszwan-252525?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:riszwanlaode@gmail.com">
-<img src="https://api.iconify.design/logos:google-gmail.svg" width="22"/>
-&nbsp; riszwanlaode@gmail.com
+<img src="https://img.shields.io/badge/riszwanlaode%40gmail.com-252525?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://www.tiktok.com/@elriszwan">
-<img src="https://api.iconify.design/logos:tiktok-icon.svg" width="22"/>
-&nbsp; @elriszwan
+<img src="https://img.shields.io/badge/%40elriszwan-252525?style=for-the-badge&logo=tiktok&logoColor=FFFFFF"/>
 </a>
 
 </div>
@@ -49,16 +44,34 @@ continuous learning, practice, and personal projects.
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS%20Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/C%2B%2B-252525?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/Java-252525?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/Python-252525?style=for-the-badge&logo=python&logoColor=3776AB"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/JavaScript-252525?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/HTML5-252525?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/CSS3-252525?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/MySQL-252525?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/Git-252525?style=for-the-badge&logo=git&logoColor=F05032"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/GitHub-252525?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/VS%20Code-252525?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 
 </div>
 
