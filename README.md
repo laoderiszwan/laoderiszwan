@@ -4,21 +4,13 @@
 
 ### Informatics Engineering Student · Aspiring Software Engineer
 
-Building a strong foundation in programming and software engineering
-through continuous learning and practice.
+I am an Informatics Engineering student focused on programming,
+software development, and problem solving.
+
+Currently building my foundation in software engineering through
+continuous learning, practice, and personal projects.
 
 </div>
-
----
-
-## About Me
-
-I am an Informatics Engineering student interested in programming,
-software development, and computer science.
-
-Currently focused on strengthening my programming fundamentals,
-problem-solving skills, and developing practical skills as an
-aspiring Software Engineer.
 
 ---
 
@@ -27,15 +19,22 @@ aspiring Software Engineer.
 <div align="center">
 
 <a href="https://www.instagram.com/elriszwan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="25"/>
+&nbsp; @elriszwan
 </a>
-&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:riszwanlaode@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="25"/>
+&nbsp; riszwanlaode@gmail.com
 </a>
-&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.tiktok.com/@elriszwan">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="25"/>
+&nbsp; @elriszwan
 </a>
 
 </div>
@@ -46,42 +45,33 @@ aspiring Software Engineer.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+&nbsp;&nbsp;
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+&nbsp;&nbsp;
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+&nbsp;&nbsp;
 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+&nbsp;&nbsp;
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+&nbsp;&nbsp;
 
-## GitHub Stats
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+&nbsp;&nbsp;
 
-<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+&nbsp;&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api?username=laoderiszwan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laoderiszwan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laoderiszwan&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laoderiszwan&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 
 </div>
