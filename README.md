@@ -2,7 +2,7 @@
 
 # Laode Muhamad Riszwan
 
-### <span style="color:#3776AB;">Informatics Engineering Student</span> · Aspiring Software Engineer
+### Informatics Engineering Student · Aspiring Software Engineer
 
 Building a strong foundation in programming, computer science,
 and software engineering through continuous learning and practice.
@@ -11,7 +11,7 @@ and software engineering through continuous learning and practice.
 
 ---
 
-## 🔹 About
+## About
 
 I am an Informatics Engineering student interested in programming,
 software development, and computer science.
@@ -21,7 +21,7 @@ problem-solving skills, and understanding of software engineering.
 
 ---
 
-## 🚀 Technologies
+## Technologies
 
 <div align="center">
 
@@ -47,10 +47,10 @@ problem-solving skills, and understanding of software engineering.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 **Programming Fundamentals**  
-C++ · Problem Solving · Programming Logic
+C++ · Programming Logic · Problem Solving
 
 **Computer Science**  
 Data Structures · Algorithms · Object-Oriented Programming
@@ -60,7 +60,7 @@ Database Systems · Git · GitHub · Software Engineering
 
 ---
 
-## 📚 Learning Path
+## Learning Path
 
 ```text
 Programming Fundamentals
