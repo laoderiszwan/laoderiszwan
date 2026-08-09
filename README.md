@@ -19,22 +19,25 @@ continuous learning, practice, and personal projects.
 <div align="center">
 
 <a href="https://www.instagram.com/elriszwan">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="25"/>
-&nbsp; @elriszwan
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="28"/>
+<br>
+@elriszwan
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:riszwanlaode@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="25"/>
-&nbsp; riszwanlaode@gmail.com
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="28"/>
+<br>
+riszwanlaode@gmail.com
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.tiktok.com/@elriszwan">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="25"/>
-&nbsp; @elriszwan
+<img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="28"/>
+<br>
+@elriszwan
 </a>
 
 </div>
@@ -45,33 +48,74 @@ continuous learning, practice, and personal projects.
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-&nbsp;&nbsp;
+<br>
+C++
+</td>
 
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-&nbsp;&nbsp;
+<br>
+Java
+</td>
 
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-&nbsp;&nbsp;
+<br>
+Python
+</td>
 
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-&nbsp;&nbsp;
+<br>
+JavaScript
+</td>
 
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-&nbsp;&nbsp;
+<br>
+HTML5
+</td>
 
+</tr>
+
+<tr>
+
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-&nbsp;&nbsp;
+<br>
+CSS3
+</td>
 
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-&nbsp;&nbsp;
+<br>
+MySQL
+</td>
 
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-&nbsp;&nbsp;
+<br>
+Git
+</td>
 
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-&nbsp;&nbsp;
+<br>
+GitHub
+</td>
 
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<br>
+VS Code
+</td>
+
+</tr>
+</table>
 
 </div>
