@@ -20,22 +20,22 @@ continuous learning, practice, and personal projects.
 
 ## Social
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.instagram.com/elriszwan">
-<img src="https://img.shields.io/badge/%40elriszwan-Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/%40elriszwan-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:riszwanlaode@gmail.com">
-<img src="https://img.shields.io/badge/riszwanlaode%40gmail.com-Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/riszwanlaode%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 &nbsp;
 
 <a href="https://www.tiktok.com/@elriszwan">
-<img src="https://img.shields.io/badge/%40elriszwan-TikTok-161B22?style=for-the-badge&logo=tiktok&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/%40elriszwan-161B22?style=for-the-badge&logo=tiktok&logoColor=FFFFFF"/>
 </a>
 
 </div>
@@ -44,7 +44,7 @@ continuous learning, practice, and personal projects.
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
 &nbsp;
@@ -74,5 +74,21 @@ continuous learning, practice, and personal projects.
 &nbsp;
 
 <img src="https://img.shields.io/badge/VS%20Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=laoderiszwan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laoderiszwan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laoderiszwan&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
 
 </div>
