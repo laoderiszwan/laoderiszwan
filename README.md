@@ -1,14 +1,14 @@
-<h1 align="left">Hi, I'm Laode Muhamad Riszwan</h1>
+<h1 align="left">Laode Muhamad Riszwan</h1>
 
 <p align="left">
-  🎓 Mahasiswa Teknik Informatika &nbsp;|&nbsp;
-  💻 Software Engineer Enthusiast &nbsp;|&nbsp;
-  🤖 AI Learner
+  Informatics Engineering Student &nbsp;|&nbsp;
+  Software Engineer Enthusiast &nbsp;|&nbsp;
+  AI Learner
 </p>
 
 <p align="left">
-  Currently learning programming and software development,
-  while exploring modern technologies and Artificial Intelligence.
+  Passionate about programming, software development, and exploring
+  technology to build useful and meaningful solutions.
 </p>
 
 ---
@@ -16,17 +16,15 @@
 <h2>About Me</h2>
 
 <p align="left">
-  🎓 Mahasiswa Teknik Informatika
-  <br>
-  💻 Interested in Software Engineering
-  <br>
-  🧠 Currently learning C++ and Java
-  <br>
-  🌐 Exploring Web Development
-  <br>
-  🗄️ Learning Database and MySQL
-  <br>
-  🤖 Interested in Artificial Intelligence
+  I am an Informatics Engineering student who is interested in
+  software development and technology.
+  <br><br>
+  I enjoy learning how software works, improving my programming skills,
+  and building projects as a way to turn ideas into practical solutions.
+  <br><br>
+  Currently, I am exploring different areas of technology while
+  continuously developing my skills and discovering the field
+  I want to specialize in.
 </p>
 
 ---
@@ -67,8 +65,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
 
 </p>
 
@@ -92,6 +88,18 @@
 
 ---
 
+<h2>Contribution</h2>
+
+<p align="left">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=elriszwan&theme=transparent&hide_border=true"
+/>
+
+</p>
+
+---
+
 <p align="center">
-  <i>Learning, building, and improving every day.</i>
+  <i>Learning, building, and growing through code.</i>
 </p>
